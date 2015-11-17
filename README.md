@@ -1,2 +1,3 @@
 # Forest Hills Robotics League
-https://fhrl.github.io
+[New Website](https://fhrl.github.io) (In Progress) 
+[Old Website](http://www.foresthillslego.com/)
